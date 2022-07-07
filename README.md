@@ -21,3 +21,8 @@ d. DELETE: [HttpDelete]<br>
 5. **React application** to **Fetch** all the Data.<br>
 
 server: API <------------------------> Client: React
+
+**API**:
+![webapi](https://user-images.githubusercontent.com/73182090/177772868-b0d2ea78-5c7b-4ca4-a847-6e44cfb1fc41.png)
+**React Frontend**:<br>
+![react](https://user-images.githubusercontent.com/73182090/177772923-d342eeb2-8135-42f1-8d37-2729a9334f70.png)
